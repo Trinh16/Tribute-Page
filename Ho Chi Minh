@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <div class="container bg-faded rounded mt-5 mb-5">
+    <div class="row">
+      <main id="main">
+        <header class="col-12 mb-3">
+          <h1 class="text-center display-3" id="title">Ho Chi Minh (1890-1969):</h1>
+          <p class="text-center h3">Major Events in the Life of a Revolutionary Leader</p>
+        </header>
+    </div>
+    <div id="img-div" class="col-12 col-md-10 offset-md-1 img-container">
+  <figure class="figure-img-thumbnail">
+    <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Ho_Chi_Minh_1946.jpg" class="figure-img img-fluid rounded" alt="Ho-Chi-Minh" style="display: block;">
+    <figcaption id="img-caption" class="fig-caption">Portrait of Hồ Chí Minh, c. 1946
+      <p>1st President of the Democratic Republic of Vietnam</p>
+    </figcaption>
+  </figure>
+</div>
+    </div>
+    <div id="tribute-info" class="col-12 col-md-10 offset-md-1">
+       <a id="tribute-link" href="https://en.wikipedia.org/wiki/Ho_Chi_Minh#" title="Link to the Ho Chi Minh Wikipedia page" target="_blank">Learn more about Ho Chi Minh</a>
+       </main>
+        <div class="row">
+  <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+  <p> He was a Vietnamese revolutionary and statesman who held the position of Prime Minister in the Democratic Republic of Vietnam from 1945 to 1955. Additionally, he assumed the role of President from 1945 until his passing in 1969. Adhering to a Marxist–Leninist ideology, he also served as the Chairman and First Secretary of the Workers' Party of Vietnam, which eventually became the precursor to the present-day Communist Party of Vietnam.</p></div>
+      <h2 class="text-center mt-4 mb-3">A timeline of the life of Ho Chi Minh</h2>
+      <dl class="row">
+        <dt class="col-md-3">1890 - Birth</dt>
+        <dd class="col-md-9"> Ho Chi Minh was born as NGUYEN Sinh Cung in Kim Lien, a village in Annam, under French control. He later adopted the name Ho Chi Minh ("He who enlightens"). In the colonial context of the time, Vietnam was divided into Cochin China, Annam, and Tonkin, collectively known as Indochina, under French rule. France governed Cochin China directly and controlled other regions indirectly through a colonial administration. The people had limited influence and rights. Vietnam was a valuable French colony due to its resources and labor.</dd>
+        <dt class="col-md-3">1907-1919</dt>
+        <dd class="col-md-9">After initial schooling, Ho and his brother attended an academy in Hué. Ho briefly taught in Phan Thiet and later worked on a French steamship to Marseille in 1911. Over two years, he traveled globally, settling in London.
+
+In 1917, he moved to Paris, adopting the name NGUYEN Ai Quoc. Ho founded the Association for Annamite Patriots in 1919, opposing French colonialism. He authored a petition against exploitation, seeking recognition at the Versailles Peace Conference. Though not officially acknowledged, his efforts gained attention in Vietnam.</dd>
+        <dt class="col-md-3">1920-1922</dt>
+        <dd class="col-md-9">Ho was among the founding members of the recently established French Communist Party. Ho established the journal "Le Paria" (The Pariah), providing anticolonial activists a platform to share their perspectives on the French colonial regime.</dd>
+        <dt class="col-md-3">1923</dt>
+        <dd class="col-md-9"> Ho's initial trip to Russia marked the beginning of his subsequent visits, where he formed connections with prominent Soviet figures like Nikolai BUKHARIN, Leon TROTSKY, and Joseph STALIN. During his time in Russia, he underwent training as a Comintern* agent, immersing himself in the ideologies of Marx and Lenin, along with revolutionary methods and organization.</dd>
+        <dt class="col-md-3">1925-1938</dt>
+        <dd class="col-md-9">In 1925, Ho journeyed to China, collaborating with fellow Comintern agent Mikhail BORODIN to foster socialist revolution. In China, he established the Thanh Nien Cach Menh Dong Chi Hoi (Revolutionary Youth League), later known as Thanh Nien, uniting Vietnamese exiles dedicated to revolution. This organization grew and connected with other nationalist groups in Vietnam, disseminating the journal "Than Nien."
+
+By 1927, due to CHIANG Kai-shek's crackdown on left-wing radicals, Ho left China for the Soviet Union. He operated from Russia, visiting China to recruit for Thanh Nien.
+
+In 1930, Ho founded the Vietnamese Communist Party (VCP) in Hong Kong, later named the Indochinese Communist Party (ICP).
+
+After his release from a two-year imprisonment by British authorities in Hong Kong for revolutionary activities, Ho stayed in Moscow until 1938.
+
+In 1938, he headed to China to advise the Chinese Communist Party during the Japanese invasion. The Chinese Communist Party and Guomindang suspended their civil war to confront the Japanese.</dd>
+        
+        <dt class="col-md-3">1941- The Return</dt>
+        <dd class="col-md-9"> Ho made his first return to Vietnam since 1911. He established the Viet Nam Doc Lap Dong Minh (League for the Independence of Vietnam), later known as Viet Minh. This organization united nationalist and communist groups striving for Vietnamese independence. During Japan's occupation of Vietnam, Viet Minh confronted both French colonial authorities and Japanese occupiers.</dd>
+
+        <dt class="col-md-3">1942 </dt>
+        <dd class="col-md-9"> Ho was briefly imprisoned by China's Nationalist Party (Guomindang) and adopted the pseudonym Ho Chi Minh.</dd>
+        <dt class="col-md-3">1945 </dt>
+        <dd class="col-md-9">After World War II, Ho organized the Viet Minh to initiate a widespread uprising. This led to the capture of key Vietnamese cities, proclaiming Vietnam's independence as the Democratic Republic of Vietnam. Ho Chi Minh became its first president.</dd>
+        <dt class="col-md-3">1945 </dt>
+        <dd class="col-md-9"> The Potsdam Conference partitioned Vietnam into North and South regions. Northern administration was temporarily under Nationalist China, and Southern administration under the British, with French troops returning to the South.</dd>
+        <dt class="col-md-3">1946</dt>
+        <dd class="col-md-9"> Ho Chi Minh signed an agreement with the French recognizing Vietnam's independence within the French Union, allowing a limited French military presence. As tensions escalated, this agreement crumbled, culminating in a full-scale war between the French and Vietnamese.</dd>
+        <dt class="col-md-3">1951</dt>
+        <dd class="col-md-9">The Vietnamese Workers Party (Lao Dong) emerged as the successor to the Indochinese Communist Party.</dd>
+        <dt class="col-md-3">1954</dt>
+        <dd class="col-md-9">Vietnamese forces defeated the French at Dien Bien Phu, leading to French power's collapse in Vietnam. The Geneva Conference determined Vietnam's division, with the North under Viet Minh control and the South under French rule until a new South Vietnamese government was established. Backed by the U.S., NGO Dinh Diem became Prime Minister of South Vietnam.</dd>
+        <dt class="col-md-3">1955</dt>
+        <dd class="col-md-9">The U.S. provided military aid to Diem's regime. Repressed by Diem's policies, communist groups in South Vietnam formed the Viet Nam Cong San ("Viet Nam Communists"), or Viet Cong, and initiated guerrilla warfare.</dd>
+        <dt class="col-md-3">1960</dt>
+        <dd class="col-md-9">Communist insurgents established the National Front for the Liberation of South Vietnam (NLF), backed by North Vietnam. Ho Chi Minh's health led to reduced decision-making involvement.</dd>
+        <dt class="col-md-3">1961</dt>
+        <dd class="col-md-9">The U.S. escalated aid to Diem, who responded with harsh measures against dissent. Despite this, the Viet Cong insurgency persisted.</dd>
+         <dt class="col-md-3">1963</dt>
+        <dd class="col-md-9">Military commanders staged a coup, leading to Diem's death due to waning confidence in his leadership.</dd>
+        <dt class="col-md-3">1964</dt>
+        <dd class="col-md-9">American ships in the Tonkin Gulf were reportedly attacked by North Vietnamese vessels in the Tonkin Gulf Incident, although its authenticity remained uncertain. Nevertheless, the U.S. committed to a full-scale war against the communist forces in Vietnam.</dd>
+         <dt class="col-md-3"> 1965 to 1973</dt>
+        <dd class="col-md-9"> The U.S. engaged in a comprehensive military campaign against the Viet Cong in South Vietnam.</dd>
+        <dt class="col-md-3">1968</dt>
+        <dd class="col-md-9">The Viet Cong's Tet Offensive saw them recapture many cities, including penetrating the U.S. embassy in Saigon. The offensive highlighted U.S. and South Vietnamese vulnerabilities, shifting public opinion and prompting contemplation of withdrawal.</dd>
+        <dt class="col-md-3"> 1969</dt>
+        <dd class="col-md-9">Ho Chi Minh passed away at seventy-nine years old.</dd>
+      </dl>
+      <h2>Vietnam after Ho Chi Minh</h2>
+      <p>Amid domestic protests against U.S. military involvement in Vietnam, the U.S. gradually withdrew its forces, ending military support in 1973. Despite significant U.S. bombing, the Viet Cong, now directed by North Vietnam, persisted in opposing South Vietnamese forces. In 1975, North Vietnam invaded South Vietnam, toppling its government and uniting the country under communism.</p>
+
+<p>Post-reunification, Vietnam extended influence by invading Cambodia and Laos, straining ties with China due to border disputes. Aligning with the Soviet Union, Vietnam received aid to rebuild and modernize its war-affected nation, yet economic growth remained limited.</p>
+
+<p>Presently, under communist governance, Vietnam initiated economic reforms, encouraging international trade and stimulating its economy.</p>
+<h3>Ho Chi Minh stands as Vietnam's ultimate hero, renowned for tirelessly championing an independent and united nation against immense challenges. Following its capture by North Vietnamese forces in 1975, Saigon was renamed Ho Chi Minh City in his honor.</h3>
+        <footer class="footer">Ho Chi Minh <cite title="Independence">Nothing is more precious than independence and liberty.</cite></footer>
+   </div>
+    </div>
+    </div>
+</body>
+</html>
